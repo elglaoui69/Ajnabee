@@ -27,6 +27,7 @@ Ajnabee is an Omegle-inspired web application that enables users to engage in an
    ```bash
    echo 'export const WEBSOCKET_URL = "ws://localhost:8080"' >> public/js/env.js
    export SERVER_PORT=8080
+   use command set in windows , export dont work :) 
    ```
    Make sure the above ports match.
 
